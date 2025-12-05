@@ -9,7 +9,6 @@ function App() {
       <Layout>
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
         </Switch>
       </Layout>
     </Router>
